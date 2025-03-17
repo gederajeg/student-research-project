@@ -1,0 +1,5 @@
+---
+title: "Bachelor Students"
+---
+
+... *to be migrated from [this repository](https://github.com/gederajeg/undergrad-thesis-supervision)*
