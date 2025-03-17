@@ -5,3 +5,7 @@
 
 /.quarto/
 /_site/
+publish-to-gh-pages
+
+doctoral.qmd
+master.qmd
