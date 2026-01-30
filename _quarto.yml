@@ -7,7 +7,7 @@ website:
   title: "Student Research Project"
   page-footer:
     left:
-      - text: "Copyright 2025, Gede Primahadi W. Rajeg"
+      - text: "Copyright 2025-2026, Gede Primahadi W. Rajeg"
         href: https://orcid.org/0000-0002-2047-8621
   page-navigation: true
   back-to-top-navigation: true
@@ -22,6 +22,8 @@ website:
         menu:
           - text: Teaching
             href: master-teaching.qmd
+          - text: Examination
+            href: master-examination.qmd
       - text: Doctoral
         menu:
           - text: Teaching
